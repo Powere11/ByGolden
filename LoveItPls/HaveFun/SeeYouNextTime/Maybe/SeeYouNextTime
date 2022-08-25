@@ -6,10 +6,7 @@ Section:NewButton("Auto Drop The banana", "ButtonInfo", function()
     getgenv().item_name = "The banana" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
 end)
-Section:NewButton("Auto Drop Angle Eye", "ButtonInfo", function()
-getgenv().item_name = "Angel Eye" -- Change this to what you want to autodupe
-loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
-end)
+
 Section:NewButton("Auto Drop Rainbow Crystal!", "ButtonInfo", function()
 getgenv().item_name = "Crystal Rainbow" -- Change this to what you want to autodupe
 loadstring(game:HttpGet('https://raw.githubusercontent.com/THEBESTHAGEG/LOLOLO/main/README.md'))()
